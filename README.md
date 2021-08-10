@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Inadequado4192
-- 👀 I'm interested in JavaScript and everything connected with it :)
+- 👀 I'm interested in JavaScript and everything related to it :)
 - 🎮 Discord: Inadequado#4192
 
 <!---
